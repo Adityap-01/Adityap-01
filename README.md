@@ -33,7 +33,6 @@
 <h3>📈 GitHub Stonks</h3><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityap-01&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Adityap-01"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityap-01&count_private=true&theme=gotham&show_icons=true&include_all_commits=true" alt="Adityap-01"/><br><br>
 </p>
 
 <hr>
