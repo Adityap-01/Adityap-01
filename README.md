@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Aditya Pradhan </b><h1>
   
-## I'm a 3rd year CSE-IoT Student at VIT Vellore.  
+## I'm a Final year CSE-IoT Student at VIT Vellore.  
 
 - 👨‍💻 I’m primarily a Front-End Web Developer.
 - 💪🏼 Future Goals: Becoming a complete MERN Stack Developer 😄
